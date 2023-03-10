@@ -1,1 +1,2 @@
-Esta es una prueba.
+# Ninguna de las lineas estaba bien.  Esta es la buena
+This is a test of the emergency broadcast system.  This is only a test.
